@@ -124,15 +124,6 @@ npm install
 node server.js
 ```
 
-### 3. Frontend Setup
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
----
-
 ## ✨ Future Add-ons
 - Scheduled orders
 - Order analytics and reports
